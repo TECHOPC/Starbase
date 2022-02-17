@@ -5,8 +5,8 @@ as informaçoes podem ser simplesmente calculadas em outros chips e só serem ap
 
 :s é a tela principal
 :op é um switch (-1 0 1)<br />
-https://discord.com/channels/775824857367445504/858423216968302592/940988247373402153
+https://discord.com/channels/775824857367445504/858423216968302592/940988247373402153 <br />
 :ac é um botão simples (0 1)<br />
-https://discord.com/channels/775824857367445504/858423216968302592/940988280957173830
+https://discord.com/channels/775824857367445504/858423216968302592/940988280957173830 <br />
 :bk é um botão simples (0 1)<br />
 https://discord.com/channels/775824857367445504/858423216968302592/940988313710518284
