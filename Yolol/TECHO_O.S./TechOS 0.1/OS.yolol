@@ -1,0 +1,19 @@
+cpag=:pp+(:pm*-1) pag+=:cpag :pm=0 :pp=0 if :b<3 then goto9 end
+if :pag>2 then :pag=0 end if :pag<0 then :pag=2 end u=:pag+3 gotou
+:__="\nPagina inicial\n Bem vindo   a Bordo" goto1
+p=:gas/:gm*100 c=:cl/:mcl*100  goto8
+b=:batt/10000*100 rt=:f1+:f2+:f3 ra=:c1+:c2+:c3 r=rt/ra*100 
+:__="Reator"+"\nFuel:"+r+"%"+"\nRate:"+:genrate+"%"+"\nBatt:"+b+"%"
+goto1
+:__="\nProp:"+p+"%"+"\nHeat:"+:rad+"%"+"\nCool:"+c+"%" goto1
+i="Iniciando\nSistema" a1="\" a2="|" a3="/" a4="-"
+:__=i+a1
+:__=i+a2+a1
+:__=i+a3+a2+a1
+:__=i+a4+a3+a2
+:__=i+a1+a4+a3
+:__=i+a2+a1+a4
+:__=i+a3+a2+a1
+:__=i+a4+a3+a2
+:__=i+a4+a4+a3
+:__=i+a4+a4+a4 :b++ :pag=0 goto1
