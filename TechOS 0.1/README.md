@@ -6,8 +6,6 @@ que pode ser des de erros na nave a quantidade de combustivel ou tempo de voo re
 Na versão atual temos quatro telas, sendo uma de "load" puramente estético, uma tela de bem vindo duas de informaçoes da nave.<br />
 <br />
 o fundamental pra funcionar:<br />
-pag é um indexador interno.<br />
-cpag é um indexador interno.<br />
 :pp e :pm são os botoes que trocam de pagina ( usei o botão simples no projeto)<br />
 :b é o botão de boot ou restart que precionando vai reiniciar o sistema como um todo e voltando pra tela inicial<br />
 :__ é o painel de texto usado pra mostrar os textos e infos<br />
