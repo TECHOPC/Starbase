@@ -10,3 +10,5 @@ as informaçoes podem ser simplesmente calculadas em outros chips e só serem ap
 ![alt text](https://github.com/TECHOPC/Starbase/blob/main/TechOS%200.2/2.png )<br />
 :bk é um botão simples (0 1)<br />
 ![alt text](https://github.com/TECHOPC/Starbase/blob/main/TechOS%200.2/3.png )<br />
+Chip de memoria contendo as variaveis a serem mostradas na tela principal (0 1)<br />
+![alt text](https://github.com/TECHOPC/Starbase/blob/main/TechOS%200.2/4.png )<br />
