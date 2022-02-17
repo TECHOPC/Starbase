@@ -1,4 +1,4 @@
-:cpag=:pp+(:pm*-1) :pag+=:cpag :pm=0 :pp=0 if :b<3 then goto9 end
+cpag=:pp+(:pm*-1) pag+=:cpag :pm=0 :pp=0 if :b<3 then goto9 end
 if :pag>2 then :pag=0 end if :pag<0 then :pag=2 end u=:pag+3 gotou
 :__="\nPagina inicial\n Bem vindo   a Bordo" goto1
 p=:gas/:gm*100 c=:cl/:mcl*100  goto8
