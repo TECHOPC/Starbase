@@ -1,4 +1,4 @@
-TechOS 0.1 ( é mais um computador de bordo mas neh se tem imput de usuario e output pode ser considerado um OS) TechOS 0.1 é um script para organizar 
+TechOS 0.1 ( é um computador de bordo mas como tem imput de usuario e output dados, pode ser considerado um OS) TechOS 0.1 é um script para organizar 
 e mostar informaçoes da nave 
 ( qualquer info que seje computavel usando yolol) que pode ser des de erros na nave a quantidade de combustivel ou tempo de voo restante.
 
