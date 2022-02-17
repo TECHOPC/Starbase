@@ -1,0 +1,20 @@
+j=3+:op :s=s+"\n"+s0+:o0+s1+:o1+s2+:o2+s3+:o3+s4+:o4  gotoj
+:op=0 --s if s<=-1 then s=4 end goto5
+:op=0 a=:ac*-1 j=:bk+a+19 x=">" y="-"   gotoj
+:op=0 ++s if s>=5 then s=0 end goto5
+if s==0 then s0=x else s0=y end if s==1 then s1=x else s1=y end
+if s==2 then s2=x else s2=y end if s==3 then s3=x else s3=y end
+if s==4 then s4=x else s4=y end goto1
+:bk=0 :ac=0 :s=:0 goto20
+:bk=0 :ac=0 :s=:1 goto20
+:bk=0 :ac=0 :s=:2 goto20
+:bk=0 :ac=0 :s=:3 goto20
+:bk=0 :ac=0 :s=:4 goto20
+goto1
+
+
+
+goto1
+if :ac==1then j=s+8 gotoj  end  :bk=0 :ac=0  goto1
+:bk=0 :ac=0  goto1
+if :bk==1 then :bk=0 :ac=0 goto1 end  gotoj
